@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sunny Kids</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Sunny Kids - Talleres de Verano 6, 7 y 8 de Julio</h1>
+    
+    <section id="contacto">
+      <h2>Contacto</h2>
+      <p>Alma: 611 384 985</p>
+      <p>Leyre: 722 800 994</p>
+      <p>Contactar solo por WhatsApp o teléfono</p>
+      <p>Se ruega no llamar después de las 12 de la noche.</p>
+      <p>Email: arojser3005@gmail.com | leyreprincess@gmail.com</p>
+    </section>
+    
+    <section id="itinerario">
+      <h2>Itinerario</h2>
+      
+      <article>
+        <h3>Día 1 - 6 de Julio</h3>
+        <p>Nuestra aventura durante estos tres días comienza aquí. Los horarios no son fijos, si no puedes asistir a esa hora, coméntalo y lo cambiamos. Se ruega puntualidad.</p>
+        <p><strong>Actividad 1:</strong> Pintando con burbujas a las 5:45 pm (aprox. 1 hora).</p>
+        <p><strong>Actividad 2:</strong> Botella de la calma a las 5:50 pm (aprox. 30 min).</p>
+        <p>Este día tiene un precio especial de 2 euros si se compra suelto.</p>
+      </article>
+      
+      <article>
+        <h3>Día 2 - 7 de Julio</h3>
+        <p>La aventura continúa. Horarios flexibles, contacta si necesitas cambiar.</p>
+        <p><strong>Actividad 1:</strong> Plantando lentejas a las 12:00 pm (40 min).</p>
+        <p><strong>Actividad 2:</strong> Personaliza tu mochila a las 5:00 pm (1 hora).</p>
+        <p><strong>Actividad 3:</strong> Abanico con forma a las 6:00 pm.</p>
+      </article>
+      
+      <article>
+        <h3>Día 3 - 8 de Julio</h3>
+        <p>Último día y gran cierre con entrega de premios.</p>
+        <p><strong>Actividad 1:</strong> Sales de colores a las 11:30 am (30 min).</p>
+        <p><strong>Actividad 2:</strong> Regalo para papá y mamá a las 12:05 pm.</p>
+        <p><strong>Actividad 3:</strong> Final de temporada con entrega de diplomas y premios, horario flexible de 12 a 9 pm.</p>
+      </article>
+    </section>
+    
+    <section id="devoluciones">
+      <h2>Política de devoluciones</h2>
+      <p>Si faltas a menos de 2 actividades, se te devolverá un pequeño porcentaje del dinero.</p>
+      <p>La devolución se hace por todo el día o días comprados. Si compras 3 días y solo quieres 2, la devolución es del total y pierdes las plazas de esos días.</p>
+      <button>Solicitar devolución</button>
+      <p>Se ruega puntualidad. Si decimos a una hora, no vale llegar media hora tarde.</p>
+    </section>
+    
+  </div>
+</body>
+</html>
